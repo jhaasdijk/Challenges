@@ -2,8 +2,9 @@
 
 """
 __author__      = jhaasdijk
-__description__ = Given 3 decimal rgb values, return the hexadecimal representation
-                  - Don't forget to properly check bounds
+__description__ = Given 3 decimal rgb values,
+                   return the hexadecimal representation
+                   - Don't forget to properly check bounds
 """
 
 def value(x):

@@ -2,7 +2,8 @@
 
 """
 __author__      = jhaasdijk
-__description__ = Given a string of space separated numbers, return the highest and lowest number
+__description__ = Given a string of space separated numbers,
+                   return the highest and lowest number
 """
 
 def high_and_low(numbers):

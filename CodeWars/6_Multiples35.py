@@ -2,7 +2,8 @@
 
 """
 __author__      = jhaasdijk
-__description__ = Return the sum of all the multiples of 3 or 5 below the number
+__description__ = Return the sum of all the multiples
+                  of 3 or 5 below the number
 """
 
 def solution(number):
