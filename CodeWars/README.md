@@ -6,8 +6,6 @@ __author__ = "Jasper Haasdijk"
 
 <img src="https://www.codewars.com/users/happytonto/badges/micro">
 
----
-
 Files are saved using the following format:  
 ```haskell
 x_T
