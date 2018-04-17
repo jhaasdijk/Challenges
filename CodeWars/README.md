@@ -4,7 +4,6 @@
 __author__ = "Jasper Haasdijk"
 ```
 
-![CodeWars Badge](https://www.codewars.com/users/happytonto/badges/micro)
 <img src="https://www.codewars.com/users/happytonto/badges/micro">
 
 ---
