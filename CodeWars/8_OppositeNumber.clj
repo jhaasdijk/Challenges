@@ -5,7 +5,7 @@
 (ns opposite-number)
 
 (defn opposite [number]
-  (- number))
+    (- number))
 
 ; An example of how to use this function is: (println (opposite 3))
 
