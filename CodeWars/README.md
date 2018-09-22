@@ -4,7 +4,7 @@
 __author__ = "Jasper Haasdijk"
 ```
 
-<img src="https://www.codewars.com/users/happytonto/badges/micro">
+<img src="badge.svg">
 
 Files are saved using the following format:  
 ```haskell
